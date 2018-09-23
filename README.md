@@ -1,10 +1,10 @@
 # Kubernauts TK8 EKS CLI
 
-This repo provides terraform modules based on the grate implementation from Wesley Charles Blake:
+This repo provides terraform modules based on the brilliant implementation from Wesley Charles Blake, the modules have been slightly extended to provide the ability to ssh inito the worker nodes for troubleshooting:
 
 https://github.com/WesleyCharlesBlake
 
-and the golang sources for tk8eks cli.
+The golang sources for tk8eks cli was implemented by our awesome and lovely Kubernaut Christopher Adigun, who implemented the first version of tk8 cli. this implementation will be integrated in tk8 v0.5 very soon.
 
 ## Deploy an EKS Cluster
 
