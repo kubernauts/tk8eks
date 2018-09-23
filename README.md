@@ -4,7 +4,7 @@ This repo provides terraform modules based on the grate implementation from Wesl
 
 https://github.com/WesleyCharlesBlake
 
-and a the golang sources for tk8eks cli.
+and the golang sources for tk8eks cli.
 
 ## Deploy an EKS Cluster
 
@@ -18,7 +18,7 @@ and a the golang sources for tk8eks cli.
 
 5. Install aws-iam-authenticator (heptio-authenticator-aws)
 
-6. Donwload tk8eks cli from releases  
+6. Download tk8eks cli from releases  
 
 7. export AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
