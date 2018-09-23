@@ -1,0 +1,5 @@
+.DS_Store
+pkg
+terraform
+tk8eks-darwin-amd64
+tk8eks-linux-amd64
