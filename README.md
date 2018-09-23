@@ -1,3 +1,4 @@
+![Alt text](./tk8eks-cli.png?raw=true "TK8 EKS CLI")
 # Kubernauts TK8 EKS CLI
 
 This repo provides terraform modules based on the brilliant implementation from Wesley Charles Blake, the modules have been slightly extended to provide the ability to ssh inito the worker nodes for troubleshooting:
